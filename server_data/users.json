@@ -1,0 +1,26 @@
+[
+  {
+    "id": "student_1789820140372_67c60eba",
+    "fullName": "Nguyễn Minh Anh",
+    "email": "nguyenminhanh2972010@gmail.com",
+    "grade": "11",
+    "salt": "41d0f462dda1c7e101b6deccee13ce0b",
+    "passwordHash": "3353a9df160fcf41df70fbac3695945ac5d0366da104d64923478211dc74b9dfd8cce1289d6e834701881ba42961cdb559261c293e43d18ae6475841422912b7",
+    "createdAt": "2026-09-19T12:15:40.372Z",
+    "studyNotes": [],
+    "savedFormulas": [],
+    "lessonProgress": {}
+  },
+  {
+    "id": "student_1789820593987_7d07d5b1",
+    "fullName": "Nguyễn Văn An",
+    "email": "test_student@example.com",
+    "grade": "11",
+    "salt": "bb917fd12ca1562e293b53f26300aba6",
+    "passwordHash": "5c400c00cbf3b19c4fe48f075a1d8b8c3b7a5dc161835670e06b0adb4c1fc76bd9d0fbf4797b6d4d250d1edafa57c9f870961b654f4383cb92c019cd75333297",
+    "createdAt": "2026-09-19T12:23:13.987Z",
+    "studyNotes": [],
+    "savedFormulas": [],
+    "lessonProgress": {}
+  }
+]

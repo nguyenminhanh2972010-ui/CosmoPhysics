@@ -1,0 +1,6 @@
+{
+  "name": "COSMOPHYSIC",
+  "description": "Nền tảng học Vật Lí 11 trực quan, hiện đại dành cho học sinh THPT Việt Nam. Khám phá, hiểu bản chất và vươn xa tri thức cùng thí nghiệm ảo, sơ đồ tư duy và bài giải chi tiết.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
